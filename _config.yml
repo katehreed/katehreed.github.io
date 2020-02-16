@@ -1,2 +1,4 @@
 name: History Dialogues
 markdown: kramdown
+
+theme: jekyll-theme-minimal
